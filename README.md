@@ -12,5 +12,7 @@ class student:
 obj=student(1,'suresh')
 print(obj.show())
 
+print('thank you')
+
          
          
